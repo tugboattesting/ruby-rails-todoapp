@@ -5,4 +5,3 @@
 2. `docker-compose up -d`
 3. `docker-compose run web rake db:setup`
 4. Access the application on localhost:3000
-
