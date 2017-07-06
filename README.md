@@ -1,5 +1,4 @@
 ## Local Dev Setup
-
 0. Have Docker installed
 1. `git clone` this repository
 2. `docker-compose up -d`
